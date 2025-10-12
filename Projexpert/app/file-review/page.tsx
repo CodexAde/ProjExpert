@@ -230,10 +230,6 @@ export default function FileReviewPage() {
                   Back to Dashboard
                 </Button>
               </Link>
-              <div className="flex items-center space-x-2">
-                <Upload className="w-6 h-6 text-primary" />
-                <span className="text-xl font-bold">File Review</span>
-              </div>
             </div>
             <Badge variant="secondary" className="bg-accent/10 text-accent">
               AI-Powered Analysis
