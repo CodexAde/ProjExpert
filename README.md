@@ -8,7 +8,7 @@
 
 ---
 
-[![IDE Preview](/Projexpert/public/ide.png)](https://proj-expert.vercel.app/ide)
+[![IDE Preview](/public/ide.png)](https://proj-expert.vercel.app/ide)
 
 ---
 
